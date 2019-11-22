@@ -30,7 +30,7 @@ possible solutions. You can check many of them for free against your project at 
 Why did we write this?
 ----------------------
 
-**Short answer**: We think that you can learn as much from reading bad code as you can from reading good one.
+**Short answer**: We think that you can learn as much from reading bad code as you can from reading good.
 
 
 **Long answer**: There is an overwhelming amount of Python books that show you how to do things by focusing on best practices and examples of good code. There are only very few books out there that show you how **not** to do things. We wanted to change that by providing you with an **anti-book** that teaches you things which you should **never** do in practice.
